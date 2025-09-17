@@ -2,7 +2,7 @@ Package: com.touchWorld.bilibiliTweak
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: deb/com.touchWorld.bilibiliTweak_1.0.0_iphoneos-arm.deb
+Filename: debs/com.touchWorld.bilibiliTweak_1.0.0_iphoneos-arm.deb
 Size: 223524
 MD5sum: b1699ce0ca894c7c045268368fe7905c
 SHA1: b966f569004b09ecaed2412cbb19ec8cee672461
