@@ -1,18 +1,8 @@
-Origin: TouchFriend
-Label: TouchFriend Repo
+Origin: TouchFriend's Repo
+Label: TouchFriend's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: TouchFriend 的 iOS 越狱仓库，包含自定义 tweak 和主题
-Date: 三, 17  9 2025 10:39:25 GMT
-MD5Sum:
- 62b5eb43ed2cff6c929626a359dcef01 484 Packages
- 5c0279cbf07c6693bec9344338de1e1c 390 Packages.gz
-SHA1:
- ca5f145981683de8e4bc4e0c3479b3dcb8b4d5e9 484 Packages
- 49f051bd0998acd3f8457439d98fd4885ade4f0f 390 Packages.gz
-SHA256:
- 4cee243340653fd9aed545c8a3f983768b4683244453a6c967f6a6ff36f3b660 484 Packages
- dd162aeb2d1674961c3f5f15ac22ae4281c886055a4ce0dff91d610e2a3282b9 390 Packages.gz
+Description: TouchFriend repo for jailbreak fixes and utilities
