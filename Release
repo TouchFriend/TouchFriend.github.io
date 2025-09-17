@@ -1,0 +1,18 @@
+Origin: TouchFriend
+Label: TouchFriend's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My iOS Jailbreak Repository
+Date: 三, 17  9 2025 09:35:43 GMT
+MD5Sum:
+ 6f16d34bb47e54adf55451f6c14141d1 483 Packages
+ efd2f9edf6db9db2174924e246d3fbee 382 Packages.gz
+SHA1:
+ fa49f06ab7c58b674c6b3e3c09c2ad658e4043be 483 Packages
+ 5f60fb39fae8079f9f4487e9fb964a40cf902117 382 Packages.gz
+SHA256:
+ 9a5d8f24fe33bc528987e75646ddaa01a855ec8afd2fcee23aa30d393eb6eec9 483 Packages
+ ccdf52bdba38109b2f9b072af35ecb964cb7730463ef520631b51eb7462b877f 382 Packages.gz
