@@ -1,24 +1,15 @@
-Package: ai.akemi.appinst
-Version: 2.1.1
+Package: com.touchWorld.bilibiliTweak
+Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Installed-Size: 364
-Pre-Depends: firmware (>= 5.0)
-Depends: ai.akemi.appsyncunified (>= 5.1)
-Conflicts: com.sull.appinstaller
-Replaces: com.linusyang.appinst
-Provides: com.linusyang.appinst
-Filename: debs/ai.akemi.appinst_2.1.1_iphoneos-arm~akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
-Size: 59716
-MD5sum: 891aef5b77f11e286edd1440dd905943
-SHA1: 86f090c7e88452fb89baf14beacbb26d2392003e
-SHA256: 5997771183c39eb8b5e13fc2bb511b1dfcb7eb39d3f10c9092ab088ec34aae09
-Section: Utilities
-Priority: standard
-Homepage: https://github.com/akemin-dayo/AppSync
-Description: A command-line IPA app installer.
-Tag: role::enduser, purpose::console
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
-Name: appinst (App Installer)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.touchWorld.bilibiliTweak_1.0.0_iphoneos-arm.deb
+Size: 223524
+MD5sum: b1699ce0ca894c7c045268368fe7905c
+SHA1: b966f569004b09ecaed2412cbb19ec8cee672461
+SHA256: 8e4a5a6291687fca87103bc5e2c8d3c531f0ec19f0cbf4c88442077233310970
+Section: System
+Priority: optional
+Description: 去除哔哩哔哩广告插件
+Author: TouchWorld
+Name: BilibiliTweak
 
