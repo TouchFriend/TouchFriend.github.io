@@ -4,16 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: TouchWorld
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.touchWorld.bilibiliTweak_1.0.0_iphoneos-arm.deb
-Size: 223592
-MD5sum: 3c6b74e846b42ff260c38126d143dc79
-SHA1: 2c6013d4be76e1ccf09ca6b3ff660ba27c353d16
-SHA256: 40ba2d18660d6f3a90c9a3b527eb7d18d536f24a8cb3af78dc36b250ac7d7bf1
+Size: 223586
+MD5sum: c3764357bc9de37b0115c9667268fd4f
+SHA1: 03aec353eba6882f4ce903b5b7cd085cd688b21b
+SHA256: 985b0489b32c9b3988c29691714fdc2b0e0d72069061b235f9e22ca7ca174de5
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/TouchFriend/BiliBiliTweak
 Description: 去除哔哩哔哩广告插件
 Author: TouchWorld
-Depiction: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/index.html
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
 Name: BilibiliTweak
 
