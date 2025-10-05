@@ -16,3 +16,21 @@ Author: TouchWorld
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
 Name: BilibiliTweak
 
+Package: com.touchWorld.doubanTweak
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: TouchWorld
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.touchWorld.doubanTweak_1.0.0_iphoneos-arm.deb
+Size: 36236
+MD5sum: 801cffe89a8f8f55f8e6ba94aa754eba
+SHA1: b2359aaf813ab5c17d07f74917cf28c6bd34f530
+SHA256: 351a240d0c5d48f4e1ea0a8a8de7f074ff4f2937ef660a26cd473e59510cbf49
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/DoubanTweak
+Description: 去除豆瓣广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
+Name: DoubanTweak
+
