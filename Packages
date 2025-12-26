@@ -70,3 +70,21 @@ Author: TouchWorld
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
 Name: DoubanTweak
 
+Package: com.touchWorld.doubanTweak
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: TouchWorld
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.touchWorld.doubanTweak_1.0.1_iphoneos-arm.deb
+Size: 23292
+MD5sum: c22c30d7b3ec91b1fa474402c2c75e7b
+SHA1: b01567bbeb363fcd34bb8a175fe14dc99f772de7
+SHA256: 900f3e78a60f06c0c03a70ffa38af1f749e90443751e09843d208416194450e4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/DoubanTweak
+Description: 去除豆瓣广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
+Name: DoubanTweak
+
