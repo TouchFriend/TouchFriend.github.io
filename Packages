@@ -58,10 +58,10 @@ Architecture: iphoneos-arm64
 Maintainer: TouchWorld
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.touchWorld.bilibiliTweak_1.1.2_iphoneos-arm64_rootless.deb
-Size: 247272
-MD5sum: e33da5425e4eba094fbb43193d1ab54b
-SHA1: e2b803922c8b45aaf2e66157c7e9d1fae2dd68d2
-SHA256: f5af99343066602df389ecb3b64f5dc887c40bfe6962f4199858e95f5c0a9af8
+Size: 186134
+MD5sum: cea64ab2b793828e9cc74909d1e15e0a
+SHA1: 5745c4c2d39a761ffbda74fb48c8860a68de4be0
+SHA256: d70a8fa33b208c0444b2c88357a169c0c4a6214ad797472c850df6d31e33d83f
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/TouchFriend/BiliBiliTweak
@@ -76,10 +76,10 @@ Architecture: iphoneos-arm
 Maintainer: TouchWorld
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.touchWorld.bilibiliTweak_1.1.2_iphoneos-arm_rootful.deb
-Size: 247234
-MD5sum: fca5d081b8427621f34b0ef5ca548400
-SHA1: 53f7dcd7ac8678a4d1ddd9fcef3e87ba02cc844a
-SHA256: 85774a40bc139232d6c61b90b869c70f1ca37b32145a7f9c6f9ca4d6016f6114
+Size: 186090
+MD5sum: cd1d5573870db8c8d415f999cda25335
+SHA1: d7ddc71896a73b00a747e42d726088aa0d9a42ff
+SHA256: f9cd2b69eb29e243cd1aa2a39590c6b019aed0c68c9f57e930c40d8074118968
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/TouchFriend/BiliBiliTweak
