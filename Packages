@@ -269,15 +269,15 @@ Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon
 Name: BilibiliTweak
 
 Package: com.touchWorld.bilibiliTweak
-Version: 2.6.0
+Version: 2.6.1
 Architecture: iphoneos-arm
 Maintainer: TouchWorld
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.touchWorld.bilibiliTweak_2.6.0_iphoneos-arm_rootful.deb
-Size: 223136
-MD5sum: 44a908bc89e030ae731996d9ac94d88f
-SHA1: 0a6c2af3f163f835df564e2e4438ef002c9c98ff
-SHA256: 629d735d8bee6009a6997e790ce1205906507c8a6fb043a2a5c21573e3659ed5
+Filename: debs/com.touchWorld.bilibiliTweak_2.6.1_iphoneos-arm_rootful.deb
+Size: 225182
+MD5sum: 3e58e0aa71058d4e752e12a115332f0b
+SHA1: a0c27ed07212c303a03d59d96a7571f458bfc508
+SHA256: 688a1280995fade3af5c45ede8689391256d574695e962704cea5f69409eb1b7
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/TouchFriend/BiliBiliTweak
@@ -287,15 +287,15 @@ Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon
 Name: BilibiliTweak
 
 Package: com.touchWorld.bilibiliTweak
-Version: 2.6.0
+Version: 2.6.1
 Architecture: iphoneos-arm64
 Maintainer: TouchWorld
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.touchWorld.bilibiliTweak_2.6.0_iphoneos-arm64_rootless.deb
-Size: 223186
-MD5sum: 698e9fc3c7b49301219ec13b92345a88
-SHA1: 6f34a51077012729f2926ffb660177d8adceb0fa
-SHA256: 056113fc23f8b17d7d53e4cddffd8efa818092db23febdb03625889ddc50eb06
+Filename: debs/com.touchWorld.bilibiliTweak_2.6.1_iphoneos-arm64_rootless.deb
+Size: 225294
+MD5sum: b646ce49e4e800aa06ef1198d693f26f
+SHA1: 3f7c80643a779a99e4297aadac5a4b001ef6dba4
+SHA256: 96ca2deca7089c79e3c4cf9263082dd319e164ef9ddde3385228d114769aa3ad
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/TouchFriend/BiliBiliTweak
