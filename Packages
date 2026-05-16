@@ -358,7 +358,7 @@ Package: com.touchworld.BilibiliVideoTools
 Version: 1.0.0
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.touchworld.BilibiliVideoTools_1.0.0_iphoneos-arm.deb
+Filename: debs/com.touchworld.BilibiliVideoTools_1.0.0_iphoneos-arm_rootful.deb
 Size: 6065466
 MD5sum: ac0dce1ce04f58ac32ae57685da07e11
 SHA1: 0110811082fc5ebe3cffc8716436ca23682850c6
