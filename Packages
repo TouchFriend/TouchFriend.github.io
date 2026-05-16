@@ -340,3 +340,31 @@ Author: TouchWorld
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
 Name: DoubanTweak
 
+Package: com.touchworld.BilibiliVideoTools
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.touchworld.BilibiliVideoTools_1.0.0_iphoneos-arm64_rootless.deb
+Size: 6065518
+MD5sum: 7b675cc6703b40fa72f320a5baa390ec
+SHA1: 4bd11df9ad6195db8321eb2f4265a498fdc8b186
+SHA256: e3402b853a50337d5dd6850566a6b4e8e1f88732a36fac5dd807c8f6b02fbf9e
+Section: System
+Priority: optional
+Author: touchWorld
+Name: BilibiliVideoTools
+
+Package: com.touchworld.BilibiliVideoTools
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.touchworld.BilibiliVideoTools_1.0.0_iphoneos-arm.deb
+Size: 6065466
+MD5sum: ac0dce1ce04f58ac32ae57685da07e11
+SHA1: 0110811082fc5ebe3cffc8716436ca23682850c6
+SHA256: ef8c0233f1a0eb552e269a24e6de694c986043ef5b2ae8f7d21a0714a4b6bdb6
+Section: System
+Priority: optional
+Author: touchWorld
+Name: BilibiliVideoTools
+
