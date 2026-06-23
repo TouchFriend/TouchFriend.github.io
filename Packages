@@ -572,3 +572,39 @@ Priority: optional
 Author: touchWorld
 Name: BilibiliVideoTools
 
+Package: re.frida.server
+Version: 16.5.2
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 54084
+Conflicts: re.frida.server64
+Filename: debs/frida_16.5.2_iphoneos-arm64.deb
+Size: 16585976
+MD5sum: 9eb4a2985a96d6a2f0b5722c5a0dfa54
+SHA1: 3cdacf1b783e470b3a6d5524574ca2ceed8893bb
+SHA256: 2fb9d196cf739e4d33e802f65d7bf21cd821383f4c1d2fa7a46455ea359ec1f2
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.5.2
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 54076
+Conflicts: re.frida.server64
+Filename: debs/frida_16.5.2_iphoneos-arm.deb
+Size: 16584804
+MD5sum: a98193ddeccf8611e5d77696979e1f7b
+SHA1: b1b75f9245ad2d83eaa375955e8bcdb915654177
+SHA256: 9720a54f148377eafcc33eef50061091ba327f79a5512d8d55e024a08cc1cf1f
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
