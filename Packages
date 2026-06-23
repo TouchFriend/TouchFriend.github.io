@@ -58,6 +58,42 @@ Author: creantan/P.Y.G
 Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
 Name: LookinLoader
 
+Package: com.chinapyg.lookinloader
+Version: 2.0.7
+Architecture: iphoneos-arm
+Maintainer: creantan/P.Y.G
+Installed-Size: 2944
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.chinapyg.lookinloader_2.0.7_iphoneos-arm.deb
+Size: 538196
+MD5sum: bb0f2837083bfd6b7d880e4f09b5a5e4
+SHA1: 73c31a63cf8a2edaf2f9fa1c659d9cac55bb1fac
+SHA256: c73758b2db05c74db37f17a96e62c16f038743debb2187713c3be8d44c7c5bc4
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader
+
+Package: com.chinapyg.lookinloader-rootless
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: creantan/P.Y.G
+Installed-Size: 2944
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.chinapyg.lookinloader-rootless_2.0.7_iphoneos-arm64.deb
+Size: 535382
+MD5sum: 269894bfcd1f4efbf2941c7b9cecc85a
+SHA1: fb7c801b037d20f2d8c156ebd68905343d484be3
+SHA256: d04ad59c52f7c7d9792402428c53210cd0eb022b3be48e2910b6a713f871b844
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader-rootless
+
 Package: com.touchWorld.bilibiliTweak
 Version: 1.0.0
 Architecture: iphoneos-arm
