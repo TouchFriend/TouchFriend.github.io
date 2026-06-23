@@ -40,6 +40,24 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: com.chinapyg.lookinloader
+Version: 1.0.7-2
+Architecture: iphoneos-arm
+Maintainer: creantan/P.Y.G
+Installed-Size: 2944
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.chinapyg.lookinloader_1.0.7_iphoneos-arm.deb
+Size: 583124
+MD5sum: d540b7413ac0bf25f039f1ab26186844
+SHA1: 1f9315fb2b5f1d7ac80dbf0fdde93b0e6a8b12ef
+SHA256: 363374d6b25ec3b628e664461c12c996e65e2200e39a29fbc2e809b9f646097c
+Section: Tweaks
+Homepage: https://www.chinapyg.com
+Description: An awesome Lookin Loader for iOS8~iOS13!(https://www.chinapyg.com)
+Author: creantan/P.Y.G
+Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
+Name: LookinLoader
+
 Package: com.touchWorld.bilibiliTweak
 Version: 1.0.0
 Architecture: iphoneos-arm
