@@ -94,22 +94,6 @@ Author: creantan/P.Y.G
 Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
 Name: LookinLoader-rootless
 
-Package: com.pxx917144686.flex
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: pxx917144686
-Installed-Size: 16044
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: debs/flex_1.0.0_iphoneos-arm64.deb
-Size: 1759758
-MD5sum: 26cbdcbd67f052b01378a22e3a2a7822
-SHA1: 28bba1267f8647df433c0a3b434dbdfb5fb7d45c
-SHA256: a15700e032b575b73f08763eb32f73f0ad93175f15faff47a98ba32c5b351fa9
-Section: Tweaks
-Description: FLEX调试
-Author: FLEX Team & pxx917144686修改
-Name: FLEX++
-
 Package: com.touchWorld.bilibiliTweak
 Version: 1.0.0
 Architecture: iphoneos-arm
