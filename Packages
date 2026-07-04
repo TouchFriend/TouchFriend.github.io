@@ -472,6 +472,42 @@ Author: TouchWorld
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
 Name: BilibiliTweak
 
+Package: com.touchWorld.bilibiliTweak
+Version: 3.1.0
+Architecture: iphoneos-arm64
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchWorld.bilibiliTweak_3.1.0_iphoneos-arm64_rootless.deb
+Size: 229740
+MD5sum: 7e3f34a7d770d20619c7132bcb32c955
+SHA1: 0064f872a4d6fe8da83fde152af6917dcea18034
+SHA256: b53d8c73dd5e7c6b3c8547283ac1e25ae84dc2e98daaabe695c3ac169cc6acaf
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/BiliBiliTweak
+Description: 去除哔哩哔哩广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
+Name: BilibiliTweak
+
+Package: com.touchWorld.bilibiliTweak
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchWorld.bilibiliTweak_3.1.0_iphoneos-arm_rootful.deb
+Size: 229608
+MD5sum: a4b41d53b88bb9f3271dd86e1c41d28b
+SHA1: 99441b54dc068196ae685230c06ecfd5c560ea0f
+SHA256: 9c487d3e24c23e2867c73721bf1c63568b9253858824652625849ffe2a36dd36
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/BiliBiliTweak
+Description: 去除哔哩哔哩广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
+Name: BilibiliTweak
+
 Package: com.touchWorld.doubanTweak
 Version: 1.0.0
 Architecture: iphoneos-arm
