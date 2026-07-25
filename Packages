@@ -94,6 +94,25 @@ Author: creantan/P.Y.G
 Icon: file:///Library/PreferenceLoader/Preferences/lookin@2x.png
 Name: LookinLoader-rootless
 
+Package: com.pantsthief.flexing
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 3104
+Pre-Depends: firmware (>= 8.0)
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: debs/com.pantsthief.flexing_1.5.1_iphoneos-arm64.deb
+Size: 636406
+MD5sum: 35aa1ec6bdaaa1193c95f6c15f9c851a
+SHA1: 95a5c98533e15c50c1009c90555e543649ea90be
+SHA256: b8bf542e59be5b804156e481e1392deed84137f52177a14a9396164f1c59efe1
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: com.touchWorld.bilibiliTweak
 Version: 1.0.0
 Architecture: iphoneos-arm
