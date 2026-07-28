@@ -627,6 +627,24 @@ Priority: optional
 Author: touchWorld
 Name: BilibiliVideoTools
 
+Package: libreflex
+Version: 1.0.0-7+debug
+Architecture: iphoneos-arm64
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 1588
+Pre-Depends: firmware (>= 13.0)
+Filename: debs/libreflex_1.0.0-7+debug_iphoneos-arm64.deb
+Size: 284082
+MD5sum: 57f9746995783694a6ffcc1de772b8ab
+SHA1: cfff703e25242c1176236999aa04b94cabf3e511
+SHA256: 03577e6e3c3e344a76b9c40ec809ae7ed8e44d18f573712d0f7e703eaab06ab2
+Section: Tweaks
+Description: A FLEX extension for Swift object introspection.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libReflex
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
 Package: re.frida.server
 Version: 16.5.2
 Architecture: iphoneos-arm64
