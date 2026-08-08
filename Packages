@@ -627,6 +627,36 @@ Priority: optional
 Author: touchWorld
 Name: BilibiliVideoTools
 
+Package: com.touchworld.QQMusicPure
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchworld.QQMusicPure_1.0.0_iphoneos-arm64_rootless.deb
+Size: 9596
+MD5sum: 9a7fe88bd7fa9cd03e6a368abf1e0799
+SHA1: 0d3f6b4fff36503c99adbc9df5d5c2a2c7748d08
+SHA256: 09cae8befa18ca360dbe39b4296ed99d1ffba79742a172c228c601246ae8469d
+Section: Tweaks
+Priority: optional
+Description: QQ音乐增强插件
+Author: touchWorld
+Name: QQMusicPure
+
+Package: com.touchworld.QQMusicPure
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchworld.QQMusicPure_1.0.0_iphoneos-arm_rootful.deb
+Size: 9496
+MD5sum: 41289d8a0928ba2bafcf7f553c6c16f3
+SHA1: bc03084434151fd7f8bd2097498577683c43a122
+SHA256: e52f204c023710d3f6ce97a13de03465e20d06c304d664dd05d52b941ac9427b
+Section: Tweaks
+Priority: optional
+Description: QQ音乐增强插件
+Author: touchWorld
+Name: QQMusicPure
+
 Package: re.frida.server
 Version: 16.5.2
 Architecture: iphoneos-arm64
