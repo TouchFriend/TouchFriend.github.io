@@ -599,6 +599,42 @@ Author: TouchWorld
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
 Name: DoubanTweak
 
+Package: com.touchWorld.doubanTweak
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchWorld.doubanTweak_1.2.0_iphoneos-arm64_rootless.deb
+Size: 25620
+MD5sum: 0e3d231c908bd2293b9ae68c993db0ef
+SHA1: bcc5b0efd09124917d23426cafd5c34666b2c990
+SHA256: f4fe9a67aecbc19e0dc51b97afc611e5666b1c9d04bda5e3985e93b5119326b4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/DoubanTweak
+Description: 去除豆瓣广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
+Name: DoubanTweak
+
+Package: com.touchWorld.doubanTweak
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.touchWorld.doubanTweak_1.2.0_iphoneos-arm.deb
+Size: 25530
+MD5sum: ead4a46646ceb8cdcf1738c3885c6960
+SHA1: 6facd9b5398a2a590091d4419f01d3bffdb13f3b
+SHA256: 72890738db7f443268bb3f6101e82c63cc3d7a7e46192de7411f6c78ca15f098
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/TouchFriend/DoubanTweak
+Description: 去除豆瓣广告插件
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
+Name: DoubanTweak
+
 Package: com.touchworld.BilibiliVideoTools
 Version: 1.0.0
 Architecture: iphoneos-arm64
